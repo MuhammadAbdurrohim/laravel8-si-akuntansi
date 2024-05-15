@@ -1,3 +1,25 @@
+## DEMO
+![Screenshot (131)](https://github.com/MuhammadAbdurrohim/laravel8-si-akuntansi/assets/85945415/8af82e4c-1a94-4416-ba67-cdaf31603b18)
+
+![Screenshot (132)](https://github.com/MuhammadAbdurrohim/laravel8-si-akuntansi/assets/85945415/7aa42fbe-b69f-4d8c-847a-c82999786609)
+
+![Screenshot (133)](https://github.com/MuhammadAbdurrohim/laravel8-si-akuntansi/assets/85945415/e3fed8b2-a51e-4a54-9587-3b7fea5e64d8)
+
+![Screenshot (134)](https://github.com/MuhammadAbdurrohim/laravel8-si-akuntansi/assets/85945415/f517f1dd-8aa2-4283-9b79-df0bae393ff8)
+
+![Screenshot (135)](https://github.com/MuhammadAbdurrohim/laravel8-si-akuntansi/assets/85945415/727765cb-7965-4ed3-b5ad-3a532bae3f47)
+
+![Screenshot (136)](https://github.com/MuhammadAbdurrohim/laravel8-si-akuntansi/assets/85945415/008d2479-f485-438b-bda0-28803c0e27be)
+
+![Screenshot (137)](https://github.com/MuhammadAbdurrohim/laravel8-si-akuntansi/assets/85945415/e5964f69-e814-436a-8fb7-f843c1c60ceb)
+
+![Screenshot (138)](https://github.com/MuhammadAbdurrohim/laravel8-si-akuntansi/assets/85945415/3830e2d8-047d-4044-a354-947310fdcd9f)
+
+![Screenshot (139)](https://github.com/MuhammadAbdurrohim/laravel8-si-akuntansi/assets/85945415/0489dd03-fa75-486b-ad2b-272578d849af)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
